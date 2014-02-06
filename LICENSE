@@ -1,0 +1,49 @@
+The Other Half Specification Community License
+
+Copyright
+
+   1. Jolla grants you a perpetual, worldwide, non-exclusive, non-sublicensable,
+      no-charge, royalty-free, irrevocable (except as provided in this license)
+      copyright license to reproduce, distribute, display, make available, and
+      translate this specification and to implement the specification and
+      distribute such implementations provided that you do not, directly, or
+      indirectly, charge a fee for your implementations.
+
+Patents
+
+   2. Subject to your continued compliance with the terms of the copyright
+      license, Jolla grants you a perpetual, worldwide, non-exclusive,
+      no-charge, royalty-free, irrevocable (except as provided in this license)
+      patent license to make, have made, use, import, and otherwise transfer
+      implementations of this specification where such license applies only to
+      those patent claims, both currently owned by Jolla and acquired in the
+      future, licensable by Jolla that are necessarily infringed by
+      implementation of this specification provided that you do not, directly,
+      or indirectly, charge a fee for your implementations.
+
+Non-assertion
+
+   3. If you, or any third party affiliated (such as via agency, agreement,
+      license, or common ownership or control) with you, threaten or initiate,
+      directly or indirectly via a third party, litigation against any entity
+      alleging that any implementation of this specification (or an adaptation
+      thereof) infringes on your or a third party’s rights, then any rights
+      granted to you under this license terminate as of the earliest of the
+      following: i) the date on which you issued a written threat of litigation,
+      or ii) the date on which such litigation is filed.
+
+Liability limitation
+
+      THIS SPECIFICATION, ANY RELATED SOFTWARE AND DOCUMENTATION (REFERRED TO AS
+      “TOH MATERIALS”) ARE PROVIDED BY JOLLA ``AS IS'' AND ANY EXPRESS OR
+      IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+      OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+      ARE DISCLAIMED. IN NO EVENT SHALL JOLLA BE LIABLE FOR ANY DIRECT,
+      INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+      (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+      SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+      CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+      LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+      OUT OF THE USE OF TOH MATERIALS, EVEN IF ADVISED OF THE POSSIBILITY OF
+      SUCH DAMAGE.
+
